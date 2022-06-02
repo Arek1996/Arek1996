@@ -7,3 +7,4 @@
 👉 React
 👉 JQUERY
 👉 Bootstrap
+👉 RWD
